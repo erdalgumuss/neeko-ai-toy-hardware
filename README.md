@@ -23,8 +23,6 @@ voice-toy/
 ├── sdkconfig.defaults
 └── README.md
 
-bash
-Kodu kopyala
 
 ---
 
